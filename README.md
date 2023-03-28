@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raul Gimenez</h1>
-<h3 align="center">Currently finishing my Final Degree Research, related to a fully encrypted system (hardware/software) implementing Fully 
-Homomorphic Encryption on it, in collaboration with IDBOTIC (Cybersecurity company).</h3>
+<h3 align="center">Currently finishing my Final Degree Research, related to a fully ciphered system implementing Fully 
+Homomorphic Encryption, in collaboration with IDBOTIC (Cybersecurity company).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img 
 src="https://github-profile-trophy.vercel.app/?username=rauleteee" alt="rauleteee" /></a> </p>
