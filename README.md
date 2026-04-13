@@ -2,10 +2,7 @@
 <h3 align="center">Software Engineer focused on backend and applied cryptography, experienced in building secure systems using FHE
 and post-quantum techniques in cybersecurity environments.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=rauleteee" alt="rauleteee" /></a> </p>
-
-- 🔭 I’m currently working on [Telefonica Soluciones de Criptografía S.A.](https://telefonica.com/es)
+- 🔭 I’m currently working on [Telefonica Soluciones de Criptografía S.A.](https://telefonica.com/es) as a Cybersecurity Technical Expertise.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rauleteee](https://github.com/rauleteee)
 
