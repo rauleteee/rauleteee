@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Raul Gimenez</h1>
-<h3 align="center">Currently finishing my Final Degree Research, related to a fully ciphered system implementing Fully 
-Homomorphic Encryption, in collaboration with IDBOTIC (Cybersecurity company).</h3>
+<h3 align="center">Software Engineer focused on backend and applied cryptography, experienced in building secure systems using FHE
+and post-quantum techniques in cybersecurity environments.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img 
 src="https://github-profile-trophy.vercel.app/?username=rauleteee" alt="rauleteee" /></a> </p>
 
-- 🔭 I’m currently working on [IDBOTIC](https://www.linkedin.com/company/idbotic/?viewAsMember=true)
+- 🔭 I’m currently working on [Telefonica Soluciones de Criptografía S.A.](https://telefonica.com/es)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rauleteee](https://github.com/rauleteee)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/raulgimenezlorente/](https://www.linkedin.com/in/raulgimenezlorente/)
 
-- 📫 How to reach me **rgimenez@idbotic.com**
+- 📫 How to reach me **raul22520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
