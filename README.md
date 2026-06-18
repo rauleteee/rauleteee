@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul Gimenez</h1>
 <h3 align="center">
-Software Engineer focused on backend and applied cryptography, experienced in building secure systems using FHE
-and post-quantum techniques in cybersecurity environments.
+
+Software Engineer specialised in secure backend systems and defense-grade cryptography, with 3+ years delivering full-stack production applications in classified R&D and defense environments.  Backend experience in C++, Kotlin and C# — building REST APIs, distributed architectures and Dockerized applications — combined with expertise in FHE, post-quantum cryptography and CI/​CD security automation. Experienced working in Agile teams from first commit to production deployment, in environments where security and correctness are non-negotiable. AI student.
 </h3>
 
 ---
