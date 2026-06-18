@@ -6,7 +6,7 @@ Security Software Engineer at Telefónica Soluciones de Criptografía S.A. | Int
 
 ---
 
-- 🔭 I’m currently working on [Telefonica Soluciones de Criptografía S.A.](https://telefonica.com/es) as a Cybersecurity Technical Expertise  
+- 🔭 I’m currently working on [Telefonica Soluciones de Criptografía S.A.](https://telefonica.com/es) as a Security Software Engineer
 - 👨‍💻 All of my projects are available at: https://github.com/rauleteee  
 - 📝 I regularly write articles on: https://www.linkedin.com/in/raulgimenezlorente/  
 
