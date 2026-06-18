@@ -25,6 +25,7 @@ Security Software Engineer at Telefónica Soluciones de Criptografía S.A. | Int
 <a href="https://kotlinlang.org/">Kotlin</a> · 
 <a href="https://www.java.com/">Java</a> · 
 <a href="https://www.rust-lang.org/">Rust</a> · 
+<a href="https://dotnet.microsoft.com/es-es/languages/csharp">C#</a> · 
 <a href="https://www.python.org/">Python</a>
 </p>
 
